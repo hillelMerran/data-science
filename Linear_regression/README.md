@@ -21,6 +21,6 @@ Application of linear regression model to the preprocessed data.
 - Data scaling
 - Model training
 - Model evaluation
-- Model prediction on unknown data
+- Model prediction on non previously seen data
 
 Code file - Linear_Regression_SalePrice_Ames_Data.ipynb
