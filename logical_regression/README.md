@@ -4,7 +4,7 @@ This directory contains a project using logical regression model in order to pre
 It is based on a dataset found [here](https://archive.ics.uci.edu/ml/datasets/Heart+Disease).
 
 There are 4 datasets - Cleveland, Hungary, Switzerland, and VA Long Beach. All but Cleveland have missing values.
-Since the main objectif of this project is applying logical regression, we'll only deal with the Cleveland [data](https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/processed.cleveland.data).
+Since the main goal of this project is applying logical regression, we'll only deal with the Cleveland [data](https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/processed.cleveland.data).
 For a complete example of feature engineering, please refer to the [linear regression](https://github.com/hillelMerran/data-science/tree/main/Linear_regression) project.
 
 ## Data Description
