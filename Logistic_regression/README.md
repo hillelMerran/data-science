@@ -1,6 +1,6 @@
 # Logistic regression project - prediction of heart disease presence
 
-This directory contains a project using logical regression model in order to predict heart disease presence in a patient, based on physical caracteristics (age, gender, cholesterol...).
+This directory contains a project using logistic regression model in order to predict heart disease presence in a patient, based on physical caracteristics (age, gender, cholesterol...).
 It is based on a dataset found [here](https://archive.ics.uci.edu/ml/datasets/Heart+Disease).
 
 There are 4 datasets - Cleveland, Hungary, Switzerland, and VA Long Beach. All but Cleveland have missing values.
