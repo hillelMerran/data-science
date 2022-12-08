@@ -2,6 +2,17 @@
 
 This directory contains a project using several models in order to classify sonar signals.
 We'll focus on training 8 models at once with a pipeline, and optimizing the hyper parameters for each model with GridSearchCV.
+Models used:
+- RandomForest
+- SVC
+- Logistic regression
+- Decision tree
+- K-neighbours
+- Gaussian Naive Bayes
+- Gradient boosting
+- XGB
+
+Best model obtained: SVC.
 
 ## Data Description
 Data source: [UCI Machine learning Repository](https://archive-beta.ics.uci.edu/dataset/151/connectionist+bench+sonar+mines+vs+rocks).
